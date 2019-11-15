@@ -7,12 +7,4 @@
   <version>${revision}</version>
   <name>my-app</name>
   <!--url>http://maven.apache.org</url-->
-  <dependencies>
-    <dependency>
-      <groupId>junit</groupId>
-      <artifactId>junit</artifactId>
-      <version>${revision}</version>
-      <scope>test</scope>
-    </dependency>
-  </dependencies>
 </project>
