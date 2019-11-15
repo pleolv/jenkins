@@ -6,7 +6,7 @@
   <packaging>pom</packaging>
 
   <properties>
-    <activeAssembly>../assembly.xml</activeAssembly>
+    <activeAssembly>assembly.xml</activeAssembly>
   </properties>
 
   <build>
