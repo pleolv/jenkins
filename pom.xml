@@ -7,6 +7,4 @@
   <version>${revision}</version>
   <name>my-app</name>
   <!--url>http://maven.apache.org</url-->
-  <groupId>com.mycompany.app</groupId>
-  <version>${revision}</version>
 </project>
