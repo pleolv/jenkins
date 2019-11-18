@@ -10,7 +10,7 @@
 
   <name>my-app2</name>
   <!-- FIXME change it to the project's website -->
-  <url>http://www.example.com</url>
+  <url>http://127.0.0.1:8081/repository/test1/</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
